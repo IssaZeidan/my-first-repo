@@ -32,6 +32,6 @@ Depending on the application you use, you may not be able to preview the formatt
 
 + Markdown is everywhere. Websites like Reddit and GitHub support Markdown, and lots of desktop and web-based applications support it.
 
-**As you notice there is a differences between the lines as I used the " *** " in order to make the text bold and Italic also I used " # " to make the header and I used the ">" to create a Blockquotes, For the bold-dots I used "+" sign and in order to add a link to your project in Markdown language and allow it to open in a new tap you can use this method : <a href= **"you can add your URL here**" target="_blank"></a> as Markdown syntax for links doesn’t allow you to specify the target attribute, but if your Markdown processor supports HTML, you can use HTML to create these links.
+** As you notice there is a differences between the lines as I used the " *** " in order to make the text bold and Italic also I used " # " to make the header and I used the ">" to create a Blockquotes, For the bold-dots I used "+" sign and in order to add a link to your project in Markdown language and allow it to open in a new tap you can use this method : <a href= **"you can add your URL here**" target="_blank"></a> as Markdown syntax for links doesn’t allow you to specify the target attribute, but if your Markdown processor supports HTML, you can use HTML to create these links.
 
 >**For more syntax you can visit this link**: <a href="https://www.markdownguide.org/basic-syntax#images-1" target="_blank">Learn Markdown!</a>
