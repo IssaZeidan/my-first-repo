@@ -6,11 +6,12 @@
 
 **My name is Issa Zeidan I am 28 years old, I live in Zarqa, I am looking to grow my programming knowledge and turn it to a great experience as I am a tech follower since 2009 until today and I had a multiple experience in a different fields such as travel agencies, hotels and customer support.**
 
-# What I will learn?
+### What I will learn?
+
 + I will learn Markdown language
 + I will create my first repo using the Markdown language
 
-# What is Markdown language?
+### What is Markdown language?
 
 Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Created by John Gruber in 2004, Markdown is now one of the world’s most popular markup languages.
 As You can add Markdown formatting elements to a plaintext file using a text editor application. Or you can use one of the many Markdown applications for macOS, Windows, Linux, iOS, and Android operating systems. There are also several web-based applications specifically designed for writing in Markdown.
@@ -19,7 +20,7 @@ Depending on the application you use, you may not be able to preview the formatt
 
 > ***Be aware that The overriding design goal for Markdown’s formatting syntax is to make it as readable as possible. The idea is that a Markdown-formatted document should be publishable as-is, as plain text, without looking like it’s been marked up with tags or formatting instructions.***
 
-# Why we use Markdown?
+### Why we use Markdown?
 
 + Markdown can be used for everything. People use it to create websites, documents, notes, books, presentations, email messages, and technical documentation.
 
